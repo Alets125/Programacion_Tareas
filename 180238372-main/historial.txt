@@ -1,0 +1,117 @@
+    1  cd /workspaces/180238372
+    2  /usr/local/bin/python /workspaces/180238372/Hola.py
+    3  cd /workspaces/180238372
+    4  /usr/local/bin/python /workspaces/180238372/Hola.py
+    5  cd /workspaces/180238372
+    6  /usr/local/bin/python /workspaces/180238372/Hola.py
+    7  cd /workspaces/180238372
+    8  /usr/local/bin/python /workspaces/180238372/Hola.py
+    9  cd /workspaces/180238372
+   10  /usr/local/bin/python /workspaces/180238372/Hola.py
+   11  clear
+   12  code hello.c
+   13  make hello.c
+   14  make hello
+   15  make hello
+   16  make hello
+   17  make hello
+   18  make hello
+   19  make hello
+   20  ./hello
+   21  ./hello
+   22  make hello
+   23  ./hello
+   24  make hello
+   25  ./hello
+   26  ./hello
+   27  clear
+   28  code hello2.py
+   29  /usr/local/bin/python
+   30  python hello2.py
+   31  clear
+   32  make hello
+   33  ./hello
+   34  clear
+   35  make helloc
+   36  make helloc.c
+   37  make helloc
+   38  code helloc
+   39  cd /workspaces/180238372
+   40  /usr/local/bin/python /workspaces/180238372/SaludoNombre.py
+   41  cd /workspaces/180238372
+   42  /usr/local/bin/python /workspaces/180238372/SaludoNombre.py
+   43  cd /workspaces/180238372
+   44  /usr/local/bin/python /workspaces/180238372/SaludoNombre.py
+   45  cd /workspaces/180238372
+   46  /usr/local/bin/python /workspaces/180238372/SaludoNombre.py
+   47  make SaludarNombre.c
+   48  make SaludarNombre
+   49  code SaludarNombre
+   50  make SaludarNombre
+   51  make SaludarNombre
+   52  code SaludarNombre
+   53  make SaludarNombre
+   54  code SaludarNombre
+   55  make SaludarNombre
+   56  code SaludarNombre
+   57  make SaludarNombre
+   58  code SaludarNombre
+   59  make SaludarNombre
+   60  code SaludarNombre
+   61  code SaludarNombre
+   62  make SaludarNombre.c
+   63  make SaludarNombre
+   64  code SaludarNombre
+   65  make SaludarNombre
+   66  code SaludarNombre
+   67  code SaludarNombre
+   68  ./SaludarNombre.c
+   69  ./SaludarNombre
+   70  make SaludarNombre
+   71  make SaludarNombre.c
+   72  make SaludarNombre
+   73  code SaludarNombre.c
+   74  ./SaludarNombre.c
+   75  cd /workspaces/180238372
+   76  code SaludarNombre
+   77  code SaludarNombre.c
+   78  make SaludarNombre.c
+   79  make SaludarNombre
+   80  ./SaludarNombre
+   81  ./SaludarNombre
+   82  make SaludarNombre
+   83  ./SaludarNombre
+   84  whoami
+   85  pwd
+   86  mkdir folder1
+   87  ls
+   88  cd folder1/
+   89  code file1.txt
+   90  ls
+   91  code file2.txt
+   92  ls
+   93  cd..
+   94  cd:
+   95  cd ..
+   96  folder/ ls
+   97  folder1/ ls
+   98  ls folder
+   99  ls folder1
+  100  touch folder1/ file3.txt
+  101  tocuh folder1/file4.txt
+  102  touch folder1/file4.txt
+  103  pwd
+  104  touch cajeteada.err
+  105  rm -rf cajeta.err
+  106  rm -rf cajeteada.err
+  107  mkdir folder2
+  108  code files1.txt
+  109  touch folder2/files1.txt
+  110  mkdir soy un burro
+  111  rm -rf "soy un burro"
+  112  mkdir "soy un burro"
+  113  rm -rf "soy un burro"
+  114  rm -rf soy
+  115  rm -rf un
+  116  rm -rf burro
+  117  history > historial.txt

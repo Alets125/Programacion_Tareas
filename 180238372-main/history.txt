@@ -1,0 +1,478 @@
+    1  cd playground
+    2  make bowser
+    3  make bowser
+    4  make bowser
+    5  ./bowser.c
+    6  ./bowser
+    7  make bowser
+    8  make bowser
+    9  ./bowser
+   10  make bowser
+   11  make bowser
+   12  ./bowser
+   13  make bowser
+   14  ./bowser
+   15  make bowser
+   16  ./bowser
+   17  ./bowser
+   18  make bowser
+   19  make bowser
+   20  make bowser
+   21  make bowser
+   22  make bowser
+   23  make bowser
+   24  make bowser
+   25  make bowser
+   26  make bowser
+   27  make bowser
+   28  make bowser
+   29  make bowser
+   30  ./bowser
+   31  make bowser
+   32  ./bowser
+   33  make bowser
+   34  cd playground
+   35  make bowser
+   36  make bowser
+   37  ./bowser
+   38  code marioStage
+   39  code marioStage.c
+   40  ./marioStage
+   41  make marioStage
+   42  make marioStage.c
+   43  make marioStage
+   44  make marioStage
+   45  make marioStage
+   46  ./marioStage
+   47  make marioStage
+   48  make marioStage
+   49  ./marioStage
+   50  make marioStage
+   51  ./marioStage
+   52  make marioStage
+   53  ./marioStage
+   54  make marioStage
+   55  ./marioStage
+   56  make marioStage
+   57  ./marioStage
+   58  make marioStage
+   59  ./marioStage
+   60  make marioStage
+   61  ./marioStage
+   62  make marioStage
+   63  ./marioStage
+   64  make marioStage
+   65  ./marioStage
+   66  make marioStage
+   67  ./marioStage
+   68  make marioStage
+   69  ./marioStage
+   70  make marioStage
+   71  ./marioStage
+   72  make marioStage
+   73  ./marioStage
+   74  make marioStage
+   75  ./marioStage
+   76  make marioStage
+   77  ./marioStage
+   78  make marioStage
+   79  ./marioStage
+   80  make marioStage
+   81  ./marioStage
+   82  make marioStage
+   83  ./marioStage
+   84  make marioStage
+   85  ./marioStage
+   86  make marioStage
+   87  ./marioStage
+   88  make marioStage
+   89  ./marioStage
+   90  make marioStage
+   91  ./marioStage
+   92  make marioStage
+   93  ./marioStage
+   94  make marioStage
+   95  ./marioStage
+   96  make marioStage
+   97  ./marioStage
+   98  make marioStage
+   99  ./marioStage
+  100  make marioStage
+  101  ./marioStage
+  102  make marioStage
+  103  ./marioStage
+  104  make marioStage
+  105  ./marioStage
+  106  make marioStage
+  107  ./marioStage
+  108  make marioStage
+  109  ./marioStage
+  110  ./marioStage
+  111  make marioStage
+  112  ./marioStage
+  113  make marioStage
+  114  ./marioStage
+  115  make marioStage
+  116  ./marioStage
+  117  make marioStage
+  118  ./marioStage
+  119  make marioStage
+  120  ./marioStage
+  121  make marioStage
+  122  ./marioStage
+  123  make marioStage
+  124  ./marioStage
+  125  make marioStage
+  126  ./marioStage
+  127  make marioStage
+  128  ./marioStage
+  129  make marioStage
+  130  ./marioStage
+  131  make marioStage
+  132  ./marioStage
+  133  make marioStage
+  134  ./marioStage
+  135  make marioStage
+  136  ./marioStage
+  137  make marioStage
+  138  ./marioStage
+  139  make marioStage
+  140  ./marioStage
+  141  make marioStage
+  142  ./marioStage
+  143  make marioStage
+  144  ./marioStage
+  145  make marioStage
+  146  ./marioStage
+  147  make marioStage
+  148  ./marioStage
+  149  make marioStage
+  150  ./marioStage
+  151  make marioStage
+  152  ./marioStage
+  153  make marioStage
+  154  ./marioStage
+  155  make marioStage
+  156  ./marioStage
+  157  make marioStage
+  158  ./marioStage
+  159  make marioStage
+  160  ./marioStage
+  161  make marioStage
+  162  ./marioStage
+  163  make marioStage
+  164  ./marioStage
+  165  make marioStage
+  166  ./marioStage
+  167  make marioStage
+  168  ./marioStage
+  169  make marioStage
+  170  ./marioStage
+  171  make marioStage
+  172  ./marioStage
+  173  make marioStage
+  174  ./marioStage
+  175  make marioStage
+  176  ./marioStage
+  177  make marioStage
+  178  ./marioStage
+  179  make marioStage
+  180  ./marioStage
+  181  make marioStage
+  182  ./marioStage
+  183  make marioStage
+  184  ./marioStage
+  185  make marioStage
+  186  ./marioStage
+  187  make marioStage
+  188  ./marioStage
+  189  make marioStage
+  190  ./marioStage
+  191  cd playground
+  192  ./marioStage
+  193  make marioStage
+  194  ./marioStage
+  195  make marioStage
+  196  ./marioStage
+  197  make marioStage
+  198  ./marioStage
+  199  make marioStage
+  200  ./marioStage
+  201  make marioStage
+  202  ./marioStage
+  203  make marioStage
+  204  ./marioStage
+  205  make marioStage
+  206  ./marioStage
+  207  make marioStage
+  208  ./marioStage
+  209  make marioStage
+  210  ./marioStage
+  211  make marioStage
+  212  ./marioStage
+  213  make marioStage
+  214  ./marioStage
+  215  make marioStage
+  216  ./marioStage
+  217  make marioStage
+  218  ./marioStage
+  219  make marioStage
+  220  ./marioStage
+  221  make marioStage
+  222  ./marioStage
+  223  make marioStage
+  224  ./marioStage
+  225  make marioStage
+  226  ./marioStage
+  227  make marioStage
+  228  ./marioStage
+  229  make marioStage
+  230  ./marioStage
+  231  make marioStage
+  232  ./marioStage
+  233  make marioStage
+  234  ./marioStage
+  235  make marioStage
+  236  ./marioStage
+  237  make marioStage
+  238  ./marioStage
+  239  make marioStage
+  240  ./marioStage
+  241  make marioStage
+  242  ./marioStage
+  243  make marioStage
+  244  ./marioStage
+  245  make marioStage
+  246  ./marioStage
+  247  make marioStage
+  248  ./marioStage
+  249  make marioStage
+  250  ./marioStage
+  251  make marioStage
+  252  ./marioStage
+  253  make marioStage
+  254  ./marioStage
+  255  make marioStage
+  256  ./marioStage
+  257  make marioStage
+  258  ./marioStage
+  259  make marioStage
+  260  ./marioStage
+  261  make marioStage
+  262  ./marioStage
+  263  code pruebaMario.c
+  264  make pruebaMario
+  265  make pruebaMario
+  266  make pruebaMario
+  267  make pruebaMario
+  268  ./pruebaMario.c
+  269  ./pruebaMario
+  270  make marioStage
+  271  ./marioStage
+  272  make marioStage
+  273  ./marioStage
+  274  make marioStage
+  275  ./marioStage
+  276  make marioStage
+  277  ./marioStage
+  278  make marioStage
+  279  ./marioStage
+  280  make marioStage
+  281  ./marioStage
+  282  make marioStage
+  283  ./marioStage
+  284  make marioStage
+  285  ./marioStage
+  286  make marioStage
+  287  ./marioStage
+  288  make marioStage
+  289  ./marioStage
+  290  make marioStage
+  291  ./marioStage
+  292  make marioStage
+  293  ./marioStage
+  294  make marioStage
+  295  ./marioStage
+  296  make marioStage
+  297  ./marioStage
+  298  make marioStage
+  299  ./marioStage
+  300  make marioStage
+  301  ./marioStage
+  302  make marioStage
+  303  ./marioStage
+  304  make marioStage
+  305  ./marioStage
+  306  make marioStage
+  307  ./marioStage
+  308  make marioStage
+  309  ./marioStage
+  310  make marioStage
+  311  ./marioStage
+  312  make marioStage
+  313  ./marioStage
+  314  make marioStage
+  315  ./marioStage
+  316  make marioStage
+  317  ./marioStage
+  318  make marioStage
+  319  ./marioStage
+  320  make marioStage
+  321  ./marioStage
+  322  make marioStage
+  323  ./marioStage
+  324  ./marioStage
+  325  make marioStage
+  326  ./marioStage
+  327  make marioStage
+  328  ./marioStage
+  329  make marioStage
+  330  ./marioStage
+  331  make marioStage
+  332  ./marioStage
+  333  make marioStage
+  334  ./marioStage
+  335  make marioStage
+  336  ./marioStage
+  337  make marioStage
+  338  ./marioStage
+  339  make marioStage
+  340  ./marioStage
+  341  make marioStage
+  342  ./marioStage
+  343  make marioStage
+  344  ./marioStage
+  345  make marioStage
+  346  ./marioStage
+  347  make marioStage
+  348  ./marioStage
+  349  make marioStage
+  350  ./marioStage
+  351  ./marioStage
+  352  cd playground 
+  353  ./marioStage
+  354  cd ...
+  355  cd ..
+  356  cd temporal
+  357  git --version
+  358  code project.c
+  359  code project.c
+  360  make project
+  361  ./ project
+  362  ./ project.c
+  363  whoiam
+  364  code project.c
+  365  make project.c
+  366  make project
+  367  ./ project
+  368  ./ project.c
+  369  cd playground 
+  370  cd codespaces
+  371  cd 180238372
+  372  code project.c
+  373  make project
+  374  cd ..
+  375  cd temporal
+  376  cd temporal
+  377  mkdir temporal
+  378  cd temporal
+  379  make project.c
+  380  code project.c
+  381  make project
+  382  ./ project.c
+  383  ./ project
+  384  ./project.c
+  385  ./project.c
+  386  ./project
+  387  ./project
+  388  ./project
+  389  make project
+  390  ./project
+  391  s
+  392  ./project
+  393  ./project
+  394  git
+  395  make project
+  396  ./project
+  397  ./project
+  398  make project
+  399  make project
+  400  ./project
+  401  make project
+  402  ./project
+  403  make project
+  404  ./project
+  405  git
+  406  pwd
+  407  ls
+  408  ls -1
+  409  git init
+  410  ls -a
+  411  git status
+  412  git add project.c
+  413  git status
+  414  git commit -m "Mi primer examen"
+  415  git log --oneline
+  416  git status
+  417  git checkout 100644
+  418  git checkout 10064432162b6
+  419  git checkout 32162b6
+  420  git checkout main
+  421  git checkout master
+  422  git checkout master
+  423  git branch -M main
+  424  git remote add origin https://github.com/Alets125/repository.git
+  425  git
+  426  git
+  427  git status
+  428  make project
+  429  ./project
+  430  git add
+  431  git add project.c
+  432  git status
+  433  git checkout 32162b6
+  434  git log --oneline
+  435  git remote add origin https://github.com/Alets125/repository.git
+  436  git push -u origin main
+  437  git pull
+  438  git checkout 32162b6
+  439  git init
+  440  ls
+  441  git init
+  442  git status
+  443  git add project.c
+  444  git status
+  445  git log --oneline
+  446  git checkout master
+  447  git checkout main
+  448  git checkout master
+  449  git branch -M main
+  450  git add origin gh repo clone Alets125/repository
+  451* https://github.com/Alets125/repository.git
+  452  git add project.c https://github.com/Alets125/repository.git
+  453  git add .
+  454  git push origin main
+  455  git pull
+  456  git status
+  457  git add project.c
+  458  git commit -m "Agregando project.c"
+  459  git push origin main
+  460  git clone https://github.com/Alets125/repository.git
+  461  cd ..
+  462  cd ..
+  463  make project
+  464  make project
+  465  /cd codespaces
+  466  /cd 180238372
+  467  cd ..
+  468  cd ..
+  469  /workspaces/180238372/project.c
+  470  /workspaces/180238372
+  471  /workspaces/180238372
+  472  cd workspaces/180238372
+  473  make project
+  474  ./project
+  475  n
+  476  history
+  477  history.txt
+  478  history > history.txt
